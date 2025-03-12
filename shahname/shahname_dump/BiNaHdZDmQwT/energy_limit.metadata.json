@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"474f2ecab71145618fb2951793fe1f0a","collectionName":"energy_limit","type":"collection"}

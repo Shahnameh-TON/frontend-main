@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"954ad3976c914d619b13bca8bf60cd57","collectionName":"DailyWords","type":"collection"}
